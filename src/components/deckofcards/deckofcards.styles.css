@@ -1,5 +1,6 @@
-.deckofcards {
+.table {
     width: 600px;
     margin: auto;
     text-align: center;
+    padding: 20px;
 }
